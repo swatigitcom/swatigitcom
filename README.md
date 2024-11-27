@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatigitcom&label=Profile%20views&color=0e75b6&style=flat" alt="swatigitcom" /> </p>
 
-- 👨‍💻 All of my projects are available at [http//www.linkedin.com/in/swati-dubey-422478245](http//www.linkedin.com/in/swati-dubey-422478245)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/swati-dubey-622a74338/](https://www.linkedin.com/in/swati-dubey-622a74338/)
 
 - 📫 How to reach me **swatidubey2629@gmail**
 
